@@ -31,7 +31,7 @@ Cada sección contiene la visualización del diagrama, una breve descripción t�
 ---
 
 ### 4. Diagrama de Actividad
-![Diagrama de Actividad](Diagramas/Actividad.jpng)
+![Diagrama de Actividad](Diagramas/Actividad.jpeg)
 
 * **Comparativa y Propósito:** Modela el flujo operativo paso a paso que realiza un operario de planta desde la recepción e ingreso de producto hasta la asignación de ubicación guiada por el algoritmo y el posterior despacho de lotes.
 * **Cambios realizados:** Inclusión de bifurcaciones condicionales para manejo de excepciones de conectividad u offline en la bodega de frío.
